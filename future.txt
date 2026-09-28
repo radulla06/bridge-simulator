@@ -1,0 +1,8 @@
+Future feature ideas
+====================
+- Add configurable bidding sequences to let users explore how different auctions change contract likelihoods.
+- Include double-dummy analysis using an external solver to benchmark the heuristic play engine.
+- Provide a hand editor that supports drag-and-drop card entry in the web UI for quicker setup.
+- Persist past simulations with metadata (hand, contract, parameters) so players can revisit or share scenarios.
+- Add multiplayer mode where friends can join a session, propose contracts, and compare live simulation results.
+- Offer advanced visualization overlays such as suit-fit heatmaps and confidence interval ribbons on charts.
